@@ -1,0 +1,7 @@
+{
+  "port_scan_threshold": 20,
+  "scan_time_window": 10,
+  "high_connection_threshold": 50,
+  "connection_time_window": 10,
+  "suspicious_ports": [23, 445, 3389]
+}
