@@ -22,6 +22,7 @@ This project was built to demonstrate practical knowledge of networking, packet 
 
 ## 🏗 Project Structure
 
+```
 mini-ids/
 │
 ├── main.py
@@ -43,6 +44,7 @@ mini-ids/
 │
 └── config/
 └── settings.json
+```
 
 ---
 
